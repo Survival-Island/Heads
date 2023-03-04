@@ -1,0 +1,12 @@
+name: Heads
+main: fr.survivalisland.heads.Main
+description: Plugin de gestion des têtes custom
+version: 1.0
+author: iSliiM
+website: survivalisland.fr
+softdepend: [Essentials, Vault]
+api-version: 1.19
+commands:
+  heads:
+    description: Commande d'achat de têtes
+    usage: /<command>
